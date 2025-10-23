@@ -30,7 +30,11 @@ I enjoy solving real-world problems, learning continuously, and developing proje
 
 **Other Tools & Technologies:**  
 `Git` | `GitHub` | `VS Code` | `XAMPP` | `Jupyter Notebook`
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30px" weight="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+     height="30px" 
+     width="30px"
+     style="background-color:white; padding:5px; border-radius:6px;" />
+
           
 ---
 
