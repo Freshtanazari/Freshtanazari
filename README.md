@@ -1,10 +1,7 @@
-## Hi there 👋
 
-**Freshtanazari/Freshtanazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Freshta Nazari 👋  
 
-# Hi there, I'm Freshtan Azari 👋  
-
-🚀 **Software Engineer | Aspiring Data Scientist | Web Developer**
+🚀 **Software Engineer | Web Developer | Aspiring Data Scientist **
 
 ---
 
@@ -33,7 +30,8 @@ I enjoy solving real-world problems, learning continuously, and developing proje
 
 **Other Tools & Technologies:**  
 `Git` | `GitHub` | `VS Code` | `XAMPP` | `Jupyter Notebook`
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
 ---
 
 ### 🌟 Featured Project  
