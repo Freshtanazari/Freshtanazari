@@ -1,12 +1,12 @@
 
 # Hi there, I'm Freshta Nazari 👋  
 
-🚀 **Software Engineer | Web Developer | Aspiring Data Scientist **
+🚀 **Junior Web Developer | Aspiring Data Scientist **
 
 ---
 
 ### 👨‍💻 About Me  
-I'm a software engineer passionate about building efficient, meaningful, and data-driven applications.  
+I'm a junior developer passionate about building efficient, meaningful, and data-driven applications.  
 My journey started in **web development**, creating responsive and dynamic websites, and has now expanded toward **data science** — where I explore how data can power intelligent decisions.  
 
 I enjoy solving real-world problems, learning continuously, and developing projects that combine **software engineering**, **data science**, and **creativity**.
@@ -23,19 +23,14 @@ I enjoy solving real-world problems, learning continuously, and developing proje
 ### 🛠️ Tech Stack  
 
 **Languages & Frameworks:**  
-`HTML` | `CSS` | `JavaScript` | `React` | `PHP` | `Python` | `MySQL` | `Java`
+`HTML` | `CSS` | `JavaScript` | `React` | `PHP` | `Python` | `MySQL` 
 
 **Data Science Tools:**  
 `NumPy` | `pandas` | `Matplotlib` | `scikit-learn`
 
 **Other Tools & Technologies:**  
-`Git` | `GitHub` | `VS Code` | `XAMPP` | `Jupyter Notebook`
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-     height="30px" 
-     width="30px"
-     style="background-color:white; padding:5px; border-radius:6px;" />
+`Git` | `GitHub` | `VS Code` | `Jupyter Notebook`
 
-          
 ---
 
 ### 🌟 Featured Project  
@@ -48,8 +43,4 @@ I enjoy solving real-world problems, learning continuously, and developing proje
 - 💼 *Open to internships or collaborations in software engineering and data science*  
 - 💬 Ask me about **web development**, **APIs**, or **data visualization**
 
----
-
-> “Code, learn, build — repeat.”  
-> — Freshtan Azari
 
