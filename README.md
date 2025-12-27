@@ -1,7 +1,7 @@
 
 # Hi there, I'm Freshta Nazari 👋  
 
-🚀 **Junior Web Developer | Aspiring Data Scientist **
+🚀 Web Developer | Aspiring Data Scientist 
 
 ---
 
