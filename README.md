@@ -7,7 +7,6 @@
 *Building data-driven applications where thoughtful engineering meets analytical insight.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Freshtanazari-181717?style=flat-square&logo=github)](https://github.com/Freshtanazari)
-[![Portfolio](https://img.shields.io/badge/Live%20Project-Weather%20App-0ea5e9?style=flat-square&logo=vercel)](https://freshtanazari.github.io/weatherForcast/)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaboration-22c55e?style=flat-square)](mailto:)
 
 </div>
